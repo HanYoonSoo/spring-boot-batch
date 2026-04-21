@@ -1,4 +1,7 @@
 spring:
+  data:
+    mongodb:
+      database: cyberops
   jpa:
     show-sql: true        # SQL 실행문을 눈앞에서 처형한다
     properties:
